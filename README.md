@@ -1,1 +1,1 @@
-# Built a gaming website which include a dropdown menu where users can select the platform, they are interested in like PC, PS and mobile. Once a platform is selected it displays a list of games and it includes games title, related images. Users' login data is stored in DBMS
+Built a gaming website which include a dropdown menu where users can select the platform, they are interested in like PC and PS. Once a platform is selected it displays a list of games and it include games title and images. User's login data is stored in DBMS
