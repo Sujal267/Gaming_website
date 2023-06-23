@@ -1,0 +1,95 @@
+@media only screen and (max-width:1200px){
+    #gamestore{
+        margin-left: 150px;
+    }
+    #box{
+        margin-top: 50px;
+    }
+}
+#dropmenu:hover{
+    background-color: rgb(3, 17, 87);
+}
+#home:hover {
+    background-color:rgb(6, 171, 14) ;
+    color: white;
+}
+#browse:hover {
+    background-color:rgb(6, 171, 14) ;
+    color: white;
+}
+#platforms:hover {
+    background-color:rgb(6, 171, 14) ;
+    color: white;
+}
+#about:hover {
+    background-color:rgb(6, 171, 14) ;
+    color: white;
+}
+#body1{
+    background-image: url("bodyimg2.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-position-y: 98px;
+}
+h1{
+    color: rgb(117, 116, 115);
+}
+#body2{
+    background-image: url("bodyimg3.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-position-y:78px;
+}
+#body3{
+    background-image: url("bg3.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-position-y:78px;
+}
+#body4{
+    background-image: url("login.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-position-y:78px;
+}
+@media only screen and (min-width:1200px) and (max-width:2500px){
+    #carousel{
+        width: 750px;
+        margin-left: 390px;
+    }
+    #table{
+        padding-left: 430px;
+    }
+    #button{
+        margin-left: 700px;
+        margin-top: 30px;
+        margin-bottom: 20px;
+    }
+    #box{
+        margin: 80px;
+        margin-left: 500px;
+        border-radius: 40px;
+    }
+    #forgot{
+        margin: 114px;
+    }
+}
+#nav{
+    overflow: hidden;
+}
+#forgot{
+    color: rgb(150, 147, 147);
+    font-size: 20px;
+}
